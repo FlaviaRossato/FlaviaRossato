@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! 👋
 
-<!--
-**FlaviaRossato/FlaviaRossato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou começando minha jornada no desenvolvimento **Front-End**.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que estou explorando:
+- HTML
+- CSS
+- JavaScript
+- React (aos poucos!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Sobrevivendo a bugs com café e força de vontade.
+
+🌱 Sempre aprendendo e compartilhando meus projetos por aqui.
